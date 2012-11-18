@@ -1,0 +1,11 @@
+C:\Users\Patryk\Desktop\C++\Brainfuck++ Compliler\Brainfuck++ Compliler\bin\Debug\Brainfuck++ Compliler.exe
+C:\Users\Patryk\Desktop\C++\Brainfuck++ Compliler\Brainfuck++ Compliler\bin\Debug\Brainfuck++ Compliler.pdb
+C:\Users\Patryk\Desktop\C++\Brainfuck++ Compliler\Brainfuck++ Compliler\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Patryk\Desktop\C++\Brainfuck++ Compliler\Brainfuck++ Compliler\obj\x86\Debug\Brainfuck___Compliler.Form1.resources
+C:\Users\Patryk\Desktop\C++\Brainfuck++ Compliler\Brainfuck++ Compliler\obj\x86\Debug\Brainfuck___Compliler.Properties.Resources.resources
+C:\Users\Patryk\Desktop\C++\Brainfuck++ Compliler\Brainfuck++ Compliler\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Patryk\Desktop\C++\Brainfuck++ Compliler\Brainfuck++ Compliler\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Patryk\Desktop\C++\Brainfuck++ Compliler\Brainfuck++ Compliler\obj\x86\Debug\Brainfuck++ Compliler.exe
+C:\Users\Patryk\Desktop\C++\Brainfuck++ Compliler\Brainfuck++ Compliler\obj\x86\Debug\Brainfuck++ Compliler.pdb
+C:\Users\Patryk\Desktop\C++\Brainfuck++ Compliler\Brainfuck++ Compliler\obj\x86\Debug\Brainfuck___Compliler.Form2.resources
+C:\Users\Patryk\Desktop\C++\Brainfuck++ Compliler\Brainfuck++ Compliler\obj\x86\Debug\Brainfuck___Compliler.Form3.resources
